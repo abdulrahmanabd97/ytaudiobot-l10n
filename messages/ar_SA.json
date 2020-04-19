@@ -250,6 +250,7 @@
     "translate_button": "{SPEAKING_HEAD} ساهم",
     "translators_button": "{BUSTS_IN_SILHOUETTE} المساهمون",
     "open_project_button": "{CARD_INDEX_DIVIDERS} فتح مشروع",
-    "donate_button": null,
-    "donate_with_paypal_button": null
+    "donate_button": "تبرع,
+    "donate_with_paypal_button": ,"تبرع عن طريق paypal
+  
 }
